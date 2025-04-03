@@ -1,0 +1,17 @@
+D:\dev\windows\src\repos\Accounting\Accounting\bin\Debug\net8.0-windows\Accounting.exe
+D:\dev\windows\src\repos\Accounting\Accounting\bin\Debug\net8.0-windows\Accounting.deps.json
+D:\dev\windows\src\repos\Accounting\Accounting\bin\Debug\net8.0-windows\Accounting.runtimeconfig.json
+D:\dev\windows\src\repos\Accounting\Accounting\bin\Debug\net8.0-windows\Accounting.dll
+D:\dev\windows\src\repos\Accounting\Accounting\bin\Debug\net8.0-windows\Accounting.pdb
+D:\dev\windows\src\repos\Accounting\Accounting\obj\Debug\net8.0-windows\Accounting.Main.resources
+D:\dev\windows\src\repos\Accounting\Accounting\obj\Debug\net8.0-windows\Accounting.csproj.GenerateResource.cache
+D:\dev\windows\src\repos\Accounting\Accounting\obj\Debug\net8.0-windows\Accounting.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\windows\src\repos\Accounting\Accounting\obj\Debug\net8.0-windows\Accounting.AssemblyInfoInputs.cache
+D:\dev\windows\src\repos\Accounting\Accounting\obj\Debug\net8.0-windows\Accounting.AssemblyInfo.cs
+D:\dev\windows\src\repos\Accounting\Accounting\obj\Debug\net8.0-windows\Accounting.csproj.CoreCompileInputs.cache
+D:\dev\windows\src\repos\Accounting\Accounting\obj\Debug\net8.0-windows\Accounting.sourcelink.json
+D:\dev\windows\src\repos\Accounting\Accounting\obj\Debug\net8.0-windows\Accounting.dll
+D:\dev\windows\src\repos\Accounting\Accounting\obj\Debug\net8.0-windows\refint\Accounting.dll
+D:\dev\windows\src\repos\Accounting\Accounting\obj\Debug\net8.0-windows\Accounting.pdb
+D:\dev\windows\src\repos\Accounting\Accounting\obj\Debug\net8.0-windows\Accounting.genruntimeconfig.cache
+D:\dev\windows\src\repos\Accounting\Accounting\obj\Debug\net8.0-windows\ref\Accounting.dll
