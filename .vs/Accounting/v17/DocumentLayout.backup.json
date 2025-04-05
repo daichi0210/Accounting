@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\dev\\windows\\src\\repos\\Accounting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A04FE4EC-5DEA-4CE0-B8A9-7698459E236B}|Accounting\\Accounting.csproj|d:\\dev\\windows\\src\\repos\\accounting\\accounting\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A04FE4EC-5DEA-4CE0-B8A9-7698459E236B}|Accounting\\Accounting.csproj|solutionrelative:accounting\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A04FE4EC-5DEA-4CE0-B8A9-7698459E236B}|Accounting\\Accounting.csproj|d:\\dev\\windows\\src\\repos\\accounting\\accounting\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A04FE4EC-5DEA-4CE0-B8A9-7698459E236B}|Accounting\\Accounting.csproj|D:\\dev\\windows\\src\\repos\\Accounting\\accounting\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A04FE4EC-5DEA-4CE0-B8A9-7698459E236B}|Accounting\\Accounting.csproj|solutionrelative:accounting\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A04FE4EC-5DEA-4CE0-B8A9-7698459E236B}|Accounting\\Accounting.csproj|d:\\dev\\windows\\src\\repos\\accounting\\accounting\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A04FE4EC-5DEA-4CE0-B8A9-7698459E236B}|Accounting\\Accounting.csproj|solutionrelative:accounting\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04FE4EC-5DEA-4CE0-B8A9-7698459E236B}|Accounting\\Accounting.csproj|d:\\dev\\windows\\src\\repos\\accounting\\accounting\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A04FE4EC-5DEA-4CE0-B8A9-7698459E236B}|Accounting\\Accounting.csproj|solutionrelative:accounting\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 110,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Main.cs",
               "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\Accounting\\Accounting\\Main.cs",
               "RelativeDocumentMoniker": "Accounting\\Main.cs",
@@ -39,19 +39,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Settings.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\Accounting\\Accounting\\Settings.cs",
               "RelativeDocumentMoniker": "Accounting\\Settings.cs",
-              "ToolTip": "D:\\dev\\windows\\src\\repos\\Accounting\\Accounting\\Settings.cs [\u30C7\u30B6\u30A4\u30F3]*",
-              "RelativeToolTip": "Accounting\\Settings.cs [\u30C7\u30B6\u30A4\u30F3]*",
+              "ToolTip": "D:\\dev\\windows\\src\\repos\\Accounting\\Accounting\\Settings.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "Accounting\\Settings.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T11:44:01.661Z",
               "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Main.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\Accounting\\Accounting\\Main.cs",
               "RelativeDocumentMoniker": "Accounting\\Main.cs",

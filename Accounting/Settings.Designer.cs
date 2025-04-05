@@ -49,6 +49,12 @@
             label13 = new Label();
             label14 = new Label();
             label15 = new Label();
+            label3 = new Label();
+            textBox6 = new TextBox();
+            textBox7 = new TextBox();
+            label16 = new Label();
+            button1 = new Button();
+            button2 = new Button();
             SuspendLayout();
             // 
             // label1
@@ -226,13 +232,67 @@
             label15.TabIndex = 0;
             label15.Text = "目";
             // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(12, 286);
+            label3.Name = "label3";
+            label3.Size = new Size(55, 15);
+            label3.TabIndex = 0;
+            label3.Text = "収入書名";
+            // 
+            // textBox6
+            // 
+            textBox6.Location = new Point(105, 283);
+            textBox6.Name = "textBox6";
+            textBox6.Size = new Size(100, 23);
+            textBox6.TabIndex = 1;
+            // 
+            // textBox7
+            // 
+            textBox7.Location = new Point(105, 312);
+            textBox7.Name = "textBox7";
+            textBox7.Size = new Size(100, 23);
+            textBox7.TabIndex = 1;
+            // 
+            // label16
+            // 
+            label16.AutoSize = true;
+            label16.Location = new Point(12, 315);
+            label16.Name = "label16";
+            label16.Size = new Size(55, 15);
+            label16.TabIndex = 0;
+            label16.Text = "支出書名";
+            // 
+            // button1
+            // 
+            button1.Location = new Point(229, 282);
+            button1.Name = "button1";
+            button1.Size = new Size(75, 23);
+            button1.TabIndex = 3;
+            button1.Text = "ファイル選択";
+            button1.UseVisualStyleBackColor = true;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(229, 311);
+            button2.Name = "button2";
+            button2.Size = new Size(75, 23);
+            button2.TabIndex = 3;
+            button2.Text = "ファイル選択";
+            button2.UseVisualStyleBackColor = true;
+            // 
             // Settings
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button2);
+            Controls.Add(button1);
             Controls.Add(dateTimePicker2);
             Controls.Add(dateTimePicker1);
+            Controls.Add(textBox7);
+            Controls.Add(textBox6);
             Controls.Add(textBox3);
             Controls.Add(textBox5);
             Controls.Add(textBox4);
@@ -240,6 +300,8 @@
             Controls.Add(textBox1);
             Controls.Add(label5);
             Controls.Add(label9);
+            Controls.Add(label16);
+            Controls.Add(label3);
             Controls.Add(label8);
             Controls.Add(label7);
             Controls.Add(label10);
@@ -282,5 +344,11 @@
         private Label label13;
         private Label label14;
         private Label label15;
+        private Label label3;
+        private TextBox textBox6;
+        private TextBox textBox7;
+        private Label label16;
+        private Button button1;
+        private Button button2;
     }
 }

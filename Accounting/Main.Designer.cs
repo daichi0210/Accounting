@@ -39,8 +39,9 @@
             excelファイル出力ToolStripMenuItem = new ToolStripMenuItem();
             設定ToolStripMenuItem = new ToolStripMenuItem();
             閉じるToolStripMenuItem = new ToolStripMenuItem();
-            button3 = new Button();
             button4 = new Button();
+            button5 = new Button();
+            button3 = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridViewAccountingBook).BeginInit();
             menuStrip1.SuspendLayout();
             SuspendLayout();
@@ -49,9 +50,9 @@
             // 
             dataGridViewAccountingBook.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             dataGridViewAccountingBook.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewAccountingBook.Location = new Point(12, 98);
+            dataGridViewAccountingBook.Location = new Point(12, 56);
             dataGridViewAccountingBook.Name = "dataGridViewAccountingBook";
-            dataGridViewAccountingBook.Size = new Size(776, 311);
+            dataGridViewAccountingBook.Size = new Size(776, 353);
             dataGridViewAccountingBook.TabIndex = 0;
             // 
             // buttonAddition
@@ -121,48 +122,61 @@
             // excelファイル出力ToolStripMenuItem
             // 
             excelファイル出力ToolStripMenuItem.Name = "excelファイル出力ToolStripMenuItem";
-            excelファイル出力ToolStripMenuItem.Size = new Size(180, 22);
+            excelファイル出力ToolStripMenuItem.Size = new Size(159, 22);
             excelファイル出力ToolStripMenuItem.Text = "Excelファイル出力";
             // 
             // 設定ToolStripMenuItem
             // 
             設定ToolStripMenuItem.Name = "設定ToolStripMenuItem";
-            設定ToolStripMenuItem.Size = new Size(180, 22);
+            設定ToolStripMenuItem.Size = new Size(159, 22);
             設定ToolStripMenuItem.Text = "設定";
             設定ToolStripMenuItem.Click += 設定ToolStripMenuItem_Click;
             // 
             // 閉じるToolStripMenuItem
             // 
             閉じるToolStripMenuItem.Name = "閉じるToolStripMenuItem";
-            閉じるToolStripMenuItem.Size = new Size(180, 22);
+            閉じるToolStripMenuItem.Size = new Size(159, 22);
             閉じるToolStripMenuItem.Text = "閉じる";
             閉じるToolStripMenuItem.Click += 閉じるToolStripMenuItem_Click;
             // 
-            // button3
-            // 
-            button3.Location = new Point(374, 56);
-            button3.Name = "button3";
-            button3.Size = new Size(75, 23);
-            button3.TabIndex = 5;
-            button3.Text = "決算書";
-            button3.UseVisualStyleBackColor = true;
-            // 
             // button4
             // 
-            button4.Location = new Point(374, 27);
+            button4.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            button4.Location = new Point(632, 27);
             button4.Name = "button4";
             button4.Size = new Size(75, 23);
             button4.TabIndex = 5;
-            button4.Text = "予算書";
+            button4.Text = "予算書作成";
             button4.UseVisualStyleBackColor = true;
+            // 
+            // button5
+            // 
+            button5.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
+            button5.Location = new Point(713, 415);
+            button5.Name = "button5";
+            button5.Size = new Size(75, 23);
+            button5.TabIndex = 5;
+            button5.Text = "住所録";
+            button5.UseVisualStyleBackColor = true;
+            // 
+            // button3
+            // 
+            button3.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            button3.Location = new Point(713, 27);
+            button3.Name = "button3";
+            button3.Size = new Size(75, 23);
+            button3.TabIndex = 5;
+            button3.Text = "決算書作成";
+            button3.UseVisualStyleBackColor = true;
             // 
             // Main
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button4);
             Controls.Add(button3);
+            Controls.Add(button4);
+            Controls.Add(button5);
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(buttonDelete);
@@ -194,7 +208,8 @@
         private ToolStripMenuItem excelファイル出力ToolStripMenuItem;
         private ToolStripMenuItem 設定ToolStripMenuItem;
         private ToolStripMenuItem 閉じるToolStripMenuItem;
-        private Button button3;
         private Button button4;
+        private Button button5;
+        private Button button3;
     }
 }
